@@ -1,0 +1,26 @@
+# Ignore virtual environment
+env*/
+
+# Ignore dataset files (optional, unless you want them in GitHub)
+data/processed/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+notebooks/.ipynb_checkpoints/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Ignore system-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code workspace settings (optional)
+.vscode/
