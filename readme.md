@@ -107,6 +107,19 @@ python src/transfer_learning.py
 
 ---
 
+## Screenshots
+
+### Confusion Matrix & Classification Report
+<img src="screenshots/confusionmatrix_classification.png" alt="Confusion Matrix and Classification Report" width="600"/>
+
+### Dataset Labels Distribution
+<img src="screenshots/dataset_labels.png" alt="Dataset Labels Distribution" width="600"/>
+
+### Model Training Plot
+<img src="screenshots/model_training_plot.png" alt="Model Training Plot" width="600"/>
+
+---
+
 ## Acknowledgments
 
 - **EEG Dataset:** [Epileptic Seizure Recognition dataset](https://www.kaggle.com/datasets/harunshimanto/epileptic-seizure-recognition)
